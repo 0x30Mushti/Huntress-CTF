@@ -85,7 +85,8 @@ Run the code and get the response: flag{REDACTED}
 -------------------------------------------------------
 
 ## Note + Extra Nerdiness
-Link to additional resources
+
+[Link to additional resources](https://gist.github.com/MerijnHendriks/97f3096a5d779643ba6029d03dd86992)
 
 If you run the code, you will experience a BSOD (Blue Screen of Death).
 
