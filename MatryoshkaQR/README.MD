@@ -13,7 +13,7 @@ To Scan the qr-code and read it I used "https://qrscanner.net/"
 
 See the output in the file called "qrcode_output.txt"
 
-I seems like the hexstring is pointing to a new png photo. Lets write a short script which can be found in "topng".
+It seems like the hexstring is pointing to a new png photo. Lets write a short script which can be found in "topng.py".
 
 Great, now its time to scan the QR-code again. 
 ```
