@@ -26,7 +26,9 @@ When I conduct a malware analysis, I usually check for:
 
 ***Steps to solve the CTF***
 
-## Download the file and extract it in a safe env.
+Download the file and extract it in a safe env.
+
+
 
 ## Initial File Inspection
 
