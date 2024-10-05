@@ -6,12 +6,6 @@
 My PowerShell has been acting really weird!! It takes a few seconds to start up, and sometimes it just crashes my computer!?!?! :(
 ````
 
-***Personal Reflection
-I’m thrilled to have raced through this challenge like a kid on a sugar high and snagged a spot in the top 8 fastest! Guess all those late-night debugging sessions paid off!
-***
-
-
-
 ## Malware Analysis Procedure
 
 This is a malicious file; use a sandbox environment. I am running Flare VM.
@@ -87,6 +81,7 @@ Run the code and get the response: flag{REDACTED}
 ## Note + Extra Nerdiness
 
 [Link to additional resources](https://gist.github.com/MerijnHendriks/97f3096a5d779643ba6029d03dd86992)
+[Link to additional resources](https://www.pinvoke.net/index.aspx)
 
 If you run the code, you will experience a BSOD (Blue Screen of Death).
 
