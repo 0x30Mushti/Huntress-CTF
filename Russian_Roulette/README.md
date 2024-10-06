@@ -6,6 +6,9 @@
 My PowerShell has been acting really weird!! It takes a few seconds to start up, and sometimes it just crashes my computer!?!?! :(
 ````
 
+![Solved](solved.png)
+
+
 ## Malware Analysis Procedure
 
 This is a malicious file; use a sandbox environment. I am running Flare VM.
