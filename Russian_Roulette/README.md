@@ -39,7 +39,7 @@ Download the file and extract it in a safe env.
 
 The first thing I do with the file is to run the command:
 
-file <filename>
+file filename
 
 ```
 Windows PowerShell.lnk: MS Windows shortcut, Item id list present, Points to a file or directory, Has Relative path, Has Working directory, Has command line arguments, Archive, ctime=Sat Feb 17 05:44:00 2024, mtime=Thu Oct 03 17:53:00 2024, atime=Sat Feb 17 05:44:00 2024, length=450560, window=hidenormalshowminimized.
