@@ -122,5 +122,5 @@ When the script was executed, the files were downloaded:
 ```
 strings * | grep flag 
 
-54nO5a4Br2ezDsnfZSSIQ6L3775vwQxa8pv80HekjRBuXpFskLJe8bS6Uvp0EeIt5eM2ivuW3EdqzqUCzgPmqR9wBozLEhkCZy1eXmJxcdKs2eHPggQl37szhhOvwjSS1y9TLVJlk<span style="color:red;">flag{REDACTED_FLAG}></span>xN63GRRxSLXQ1qMAhTF4xCmxvpgi62AakeiyDU4dtvrIGFum1xavs3RLyUm6n3qer8ycEbnc0YYtRtgiEtttY
+54nO5a4Br2ezDsnfZSSIQ6L3775vwQxa8pv80HekjRBuXpFskLJe8bS6Uvp0EeIt5eM2ivuW3EdqzqUCzgPmqR9wBozLEhkCZy1eXmJxcdKs2eHPggQl37szhhOvwjSS1y9TLVJlk<span $${\color{red}flag{REDACTED_FLAG}xN63GRRxSLXQ1qMAhTF4xCmxvpgi62AakeiyDU4dtvrIGFum1xavs3RLyUm6n3qer8ycEbnc0YYtRtgiEtttY
 ````	
