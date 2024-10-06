@@ -3,7 +3,8 @@
 ## Description
 
 ```
-My PowerShell has been acting really weird!! It takes a few seconds to start up, and sometimes it just crashes my computer!?!?! :(
+My PowerShell has been acting really weird!! 
+It takes a few seconds to start up, and sometimes it just crashes my computer!?!?! :(
 ````
 
 ## Solved it within top 8 😎
