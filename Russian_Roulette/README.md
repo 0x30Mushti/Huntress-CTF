@@ -28,7 +28,7 @@ When I conduct a malware analysis, I usually check for:
 
 
 
-***Steps to solve the CTF***
+## Steps to solve the CTF
 
 Download the file and extract it in a safe env.
 
