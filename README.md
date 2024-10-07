@@ -13,6 +13,11 @@ The **Huntress CTF 2024** is a month-long Capture the Flag (CTF) competition hos
 
 I will be uploading my **CTF challenge write-ups** here, sharing insights, strategies, and solutions that I use to solve the challenges. Stay tuned for updates as I progress through the competition!
 
+
+Most writeups don’t show the trial and error involved in CTFs. Some parts were challenging, while others were pretty straightforward. It wasn’t always smooth—there were mistakes and retries along the way. Keep that in mind while reading, as the final solution might look easier than it actually was.
+
+Also, since I’m new to writing CTF writeups, I’d really appreciate any tips or feedback on how I can improve. Feel free to share your thoughts!
+
 ## Language Disclaimer
 
 Please note that **English is not my first language**, and I apologize for any grammar or spelling mistakes in my write-ups. I hope the content is still helpful and clear. Thank you for your understanding!
