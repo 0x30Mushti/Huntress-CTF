@@ -56,7 +56,7 @@ Under Executable Info, you can find command line details.
 
 Locate net.exe.
 
-Collect all instances of net.exe and look for unique COMMANDS. To see all available commands, too se which command net.exe use you can typ net help in cmd, correlate those with the commands found in the cmdline. 
+Collect all instances of net.exe and look for unique COMMANDS. Too se which command net.exe use you can typ "net help" in cmd, correlate those with the commands found in the cmdline. 
 
 Answer: REDACTED
 
