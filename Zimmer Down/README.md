@@ -35,7 +35,7 @@ The RecentDocs registry key in the NTUSER.DAT file tracks recently accessed docu
 Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs
 ```
 
-Under the RecentDocs subkey, there are additional subkeys grouped by file extensions, such as: ```.PNG```,```.JPEG``````.DOC```
+Under the RecentDocs subkey, there are additional subkeys grouped by file extensions, such as: ```.PNG```,```.JPEG```,```.DOC```
 
 
 
