@@ -19,7 +19,7 @@ Are they hiding any secrets?
 First, let's read the description carefully and highlight some important keywords: "interacted" and "file".
 
 
-When it comes to Registry forensics I always use [!Registy Explorer](https://ericzimmerman.github.io/#!index.md)
+When it comes to Registry forensics I always use [Registy Explorer](https://ericzimmerman.github.io/#!index.md)
 
 Load the file the **Ntuser.dat** file in to registry explorer. 
 
