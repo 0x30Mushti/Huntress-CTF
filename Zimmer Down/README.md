@@ -53,7 +53,7 @@ Under the **Target Name** field, I find the following file:
 
 ```
 Target Name
-VJGSuERgCoVhl6mJg1x87faFOPIqacI3Eby4oP5MyBYKQy5paDF.b62
+<REDACTED BASE62 string>.b62
 ```
 
 I copy the file name and paste it into CyberChef, selecting the Base62 decoding option.
