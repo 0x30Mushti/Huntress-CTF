@@ -11,15 +11,6 @@ Go malware is on the rise. So we need you to sharpen up those Go reverse enginee
 
 First up is the easiest of the three. Go get em!
 ```
-
-# Analysis of the ELF File (Go)
-
-This analysis focuses on an ELF (Executable and Linkable Format) file that contains Go code. The file hides a flag using XOR encryption. Our goal is to reverse-engineer the binary, decrypt the hidden flag, and understand how the code works.
-
-## What is an ELF File?
-
-ELF (Executable and Linkable Format) is a file format used for executables, object code, and shared libraries on Unix-like systems. In this case, we have an ELF executable compiled from Go code. 
-
 ### Key Elements of the Code
 
 The function `main_main` is responsible for:
