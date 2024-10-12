@@ -1,0 +1,27 @@
+def load(hex_string):
+    """Converts a hex string to a byte array."""
+    return bytes.fromhex(hex_string)
+
+def otp(data, key):
+    """XORs the data with the key."""
+    result = bytearray(len(data))
+    for i in range(len(data)):
+        result[i] = data[i] ^ key[i % len(key)]
+    return bytes(result)
+
+# Encrypted data and key as hex strings
+hex_data = "REDACTED"
+hex_key = "REDACTED"
+
+# Step 1: Convert the hex strings to byte arrays
+data = load(hex_data)
+key = load(hex_key)
+
+# Step 2: XOR decrypt the data with the key
+decrypted_data = otp(data, key)
+
+# Step 3: Convert the decrypted bytes to a string (UTF-8)
+decoded_message = decrypted_data.decode('utf-8', errors='ignore')
+
+# Output the decoded message (the flag)
+print("Decoded message:", decoded_message)
