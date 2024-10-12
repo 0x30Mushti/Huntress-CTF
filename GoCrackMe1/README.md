@@ -24,7 +24,7 @@ Here’s an overview of the important parts of the code:
 
 ### The Encrypted String
 
-The string `"0:71-44coc``3dg0cc3c`nf2cno0e24435f0n+"` is stored in an array called `v17`. This string is encrypted using XOR.
+The string ```"0:71-44coc``3dg0cc3c`nf2cno0e24435f0n+"```  is stored in an array called `v17`. This string is encrypted using XOR.
 
 ```
 qmemcpy(v17, "0:71-44coc``3dg0cc3c`nf2cno0e24435f0n+", sizeof(v17));
@@ -61,7 +61,7 @@ fmt_Fprintln(*(io_Writer_0 *)&v13, *(_slice_interface__0 *)&p_a, v7, v8);
 
 **Open CyberChef**: Go to [CyberChef](https://gchq.github.io/CyberChef/).
 
-**Input the Encrypted String**: `0:71-44coc``3dg0cc3c`nf2cno0e24435f0n+`.
+**Input the Encrypted String**: ``` `0:71-44coc``3dg0cc3c`nf2cno0e24435f0n+` ```
 
 **Use XOR**:
    - Add the `XOR` operation.
