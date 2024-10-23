@@ -29,7 +29,6 @@ Given its name, it seems like the primary DLL file and could serve as a point of
 To analyze the HelpfulDesk.dll file, I used the file command, which provided the following result:
 
 ```
-
 file Helpfuldesk.dll 
 
 HelpfulDesk.dll: PE32 executable (console) Intel 80386 Mono/.Net assembly, for MS Windows, 3 sections
