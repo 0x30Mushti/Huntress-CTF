@@ -1,6 +1,6 @@
 # Huntress CTF 2024 Summary
 
-![image](NIBCTF.jpeg)
+![image](NIBCTF.jpg)
 
 The **Huntress CTF 2024** is a month-long Capture the Flag (CTF) competition hosted by Huntress, running from **October 1 to November 1, 2024**. It is designed for participants of all skill levels to engage in various cybersecurity challenges.
 
